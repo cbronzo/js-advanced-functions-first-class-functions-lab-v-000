@@ -16,4 +16,6 @@ const createFareMultiplier = function(integer){
   };
   
   
-  
+  const fareDoubler(){
+    
+  }
